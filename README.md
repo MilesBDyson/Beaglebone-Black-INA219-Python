@@ -8,4 +8,4 @@ Dependencys :
 	python-smbus
 	sudo apt install python-smbus
 
-![Calander](Example/ina219.jpg)
+![Calander](Example/ina219.jpeg)
